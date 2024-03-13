@@ -1,4 +1,4 @@
-# Markdown Dokumentation :smile
+# Markdown Dokumentation :) 
 
 ## B
 
