@@ -36,9 +36,9 @@ for (var i = 0; i < array.length; i++) {
 
 ## E 
 
-![Tux, the Linux mascot](/markdown-cecilia/23336512_10211488670264890_1380633695_o.jpg)
+![Et billede af kamal](/markdown-cecilia/23336512_10211488670264890_1380633695_o.jpg)
 
-### Et billede fra Dubai 
+### Et billede fra da jeg rejste i Dubai 
 
 
 ## F 
