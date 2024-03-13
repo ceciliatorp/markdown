@@ -1,10 +1,9 @@
-# Markdown Dokumentation :) 
+# Markdown Dokumentation
 
 ## B
 
 - Det er simpelt at lære 
 - Det giver en indsigt i din kode 
-- 
 
 
 ## C
